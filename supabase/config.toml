@@ -1,0 +1,2 @@
+[functions.photos-api]
+verify_jwt = false
